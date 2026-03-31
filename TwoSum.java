@@ -13,7 +13,6 @@ public class TwoSum {
                 }
             }
         }
-
         System.out.println("No solution found");
     }
 }

@@ -12,7 +12,6 @@ public class BestTimetoBuyandSellStock {
                 profit = Math.max(current_profit, profit);
             }
         }
-
         System.out.println("Maximum Profit: " + profit); 
     }
 }
